@@ -1,6 +1,6 @@
 # Polyphasic Sleep Logs
 
-- This repository contains my logs regarding experiences with polyphasic sleep.
+- This repository contains my logs regarding experiences with polyphasic sleep (hereby referred to as PPS).
 
 ## Comments
 
